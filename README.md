@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @marcolachina
+- 👀 I’m interested in computer vision and robotics
